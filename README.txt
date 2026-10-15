@@ -11,6 +11,8 @@ A small online shop sends daily order data as a CSV file. A manager wants a reli
 
 ## Local data check
 Before reporting, record at least two issues you found in the CSV and what you recommend doing with each.
+1. there are dublicates in the csv
+2. there are missing values
 
 1. Issue and recommendation:
 2. Issue and recommendation:
